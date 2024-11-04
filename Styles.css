@@ -1,0 +1,44 @@
+
+.section{
+  background-color: #604CC3;
+}
+.col-lg-6{
+  color: white;
+}
+h3{
+  font-family: "Kalam", cursive;
+  font-weight: bold;
+  font-style: normal;
+  color:#FF6600;
+}
+h1{
+  color: white;
+}
+img{
+  border-radius: 50%;
+  height: 400px;
+  width: 600px;
+  position: 450px;
+  margin: 0px;
+}
+.btn{
+  background-color: #FF6600;
+  border: none;
+  padding: 10px 20px;
+}
+.container2{
+  background-color: #FF6600;
+  color: white;
+  width: 100%;
+  margin:0px;
+  padding:10px;
+}
+.navbar-brand{
+  color: white;
+}
+.nav-link{
+  color: white;
+}
+.fs-2{
+  color: whitesmoke;
+}
